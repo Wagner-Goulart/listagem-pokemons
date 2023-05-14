@@ -7,7 +7,7 @@ body {
 }
 
 body.modo-escuro {
-    background-attachment: #212121;
+    background-color: #212121;
     color: #f5f5f5;
 }
 
